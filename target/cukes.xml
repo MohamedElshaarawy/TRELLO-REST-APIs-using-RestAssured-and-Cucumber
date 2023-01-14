@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="10.558" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="End to End test for Trello" name="Authorized memeber can create an organization" time="10.284">
+<system-out><![CDATA[
+Given create a new organization.............................................passed
+Then Get Organizations for a member.........................................passed
+And Create a board inside an organization...................................passed
+Then Get boards in an organization..........................................passed
+And Create a new list.......................................................passed
+Then Get all lists on a board...............................................passed
+Then Archive a list.........................................................passed
+Then Delete a board.........................................................passed
+Then Delete an organization.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

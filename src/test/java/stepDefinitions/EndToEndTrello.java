@@ -13,8 +13,8 @@ public class EndToEndTrello {
 
 
     static String baseURL = "https://api.trello.com";
-    static String key = "7ea170d905be329a63ae62bb2e47e128";
-    static String token = "ATTA3e683e3a7c2f5eebb9486bcdec83b6717525bcfa8ef099889d3ea2fefac6bcb60A3BB855";
+    static String key = ""; // use key in file
+    static String token = ""; // use token in file
     static String organizationId = "";
     static String listId = "";
     static String boardId = "";
